@@ -1,0 +1,20 @@
+@font-face {
+	font-family: "Dos";
+	src: url("assets/PerfectDOSVGA437Win.ttf");
+}
+
+body {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+	font-family: "Dos";
+	text-align: center;
+}
+
+ul {
+	color: white;
+	font-family: "Dos";
+	font-size: 20px;
+}
